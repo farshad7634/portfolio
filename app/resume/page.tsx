@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { resume } from "@/content/resume";
+import { resume } from "@/data/resume";
 
 export default function ResumePage() {
   return (
